@@ -37,8 +37,6 @@ I'm a Computer Science undergraduate at the University of Panama, with a strong 
 
 <hr>
 <p align="center">
-   <i>If you can imagine it, you can program it.</i>
-   <br>
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/jos%C3%A9-olivero-403102340/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
   <a target="_blank" href="https://www.instagram.com/hee.abj/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
