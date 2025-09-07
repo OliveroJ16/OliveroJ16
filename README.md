@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm José Olivero<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm a Computer Science undergraduate at the University of Panama, with a strong passion for technology and continuous learning.  
+I'm a Computer Engineering student at the University of Panama, with a strong passion for technology and continuous learning.  
 
 - ⚡ **Fun fact:** I believe technology not only solves problems, but also opens paths to new ways of creating, connecting, and transforming the world.  
 - 🔭 I’m currently studying:  
